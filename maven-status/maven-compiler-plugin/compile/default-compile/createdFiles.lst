@@ -1,0 +1,8 @@
+com\aem\workflowdelegation\core\listeners\SimpleResourceListener.class
+com\aem\workflowdelegation\core\schedulers\SimpleScheduledTask.class
+com\aem\workflowdelegation\core\filters\LoggingFilter.class
+com\aem\workflowdelegation\core\schedulers\SimpleScheduledTask$Config.class
+com\aem\workflowdelegation\core\servlets\SimpleServlet.class
+com\aem\workflowdelegation\core\models\HelloWorldModel.class
+com\aem\workflowsteps\core\WorkflowDelegationStep.class
+com\aem\workflowdelegation\core\package-info.class
